@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Ryan.
-I'm Unity Developer.
-I'm studying C#, Unity, Python
+<h1>I'm Ryan.</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan2414)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+   <h2>🔭 I’m currently working on Unity Developer.</h2>
+   <h2>🌱 I’m currently learning C#, Unity, Python, JS, HTML, CSS</h2>
+   <h2>📫 How to reach me js6270@naver.com</h2>
+
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan2414)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ryan2414/ryan2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

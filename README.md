@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>I'm Ryan.</h1>
+<h1>I'm Jerry.</h1>
 
    <h2>🔭 I’m currently working on Unity Developer.</h2>
    <h2>🌱 I’m currently learning C#, Unity, JS, HTML, CSS</h2>

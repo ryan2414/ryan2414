@@ -3,7 +3,7 @@
 <h1>I'm Jerry.</h1>
 
    <h2>🔭 I’m currently working on Unity Developer.</h2>
-   <h2>🌱 I’m currently learning C#, Unity, JS, HTML, CSS</h2>
+   <h2>🌱 My Skill is C#, Unity, Swift</h2>
    <h2>📫 How to reach me js6270@naver.com</h2>
 
 

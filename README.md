@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1>I'm Charles.</h1>
+<h1>I'm Jerry.</h1>
 
-<h2>🌱 My Skill is C#, Unity, Swift</h2>
+<h2>🌱 My Skill is C#, Unity, Swift, iOS</h2>
 <h2>📫 How to reach me js6270@naver.com</h2>
 
 <h2>🔭 2년 정도의 Unity 실무 경험을 가지고 있습니다.</h2>
